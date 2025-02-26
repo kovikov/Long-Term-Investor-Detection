@@ -8,10 +8,15 @@ Identifying long-term investors is critical for financial institutions, asset ma
 
 Project Objectives
 This project aims to:
+
 ✅ Classify Investors – Differentiate long-term investors from short-term traders based on historical transaction data.
+
 ✅ Analyze Investment Behavior – Identify key factors that contribute to long-term investment commitments.
+
 ✅ Enhance Risk Management – Provide insights to financial institutions for better risk assessment and portfolio optimization.
+
 ✅ Develop Predictive Models – Utilize machine learning techniques to automate investor classification and improve decision-making.
+
 
 Key Insights & Observations
 🔹 Holding Duration Matters – Long-term investors typically retain assets for extended periods, showing resilience against market volatility.
@@ -19,11 +24,13 @@ Key Insights & Observations
 🔹 Portfolio Stability – Long-term investors contribute to market stability, while short-term traders often amplify volatility.
 🔹 Predictable Investment Patterns – Data-driven models can effectively classify investors by analyzing trade consistency, asset retention, and reinvestment trends.
 
+
 Business Impact
 📈 Optimized Investment Strategies – Financial firms can tailor investment products for long-term investors, improving client retention and portfolio growth.
 📊 Regulatory & Compliance Benefits – Helps ensure adherence to financial regulations by monitoring and categorizing investor behavior.
 ⚡ Risk Mitigation & Fraud Detection – Identifies speculative trading activities that may pose financial risks to institutions.
 💡 Strategic Decision-Making – Provides data-driven insights to improve asset allocation and wealth management strategies.
+
 
 Methodology & Approach
 1️⃣ Data Preprocessing – Cleaning and structuring raw transaction data for analysis.
